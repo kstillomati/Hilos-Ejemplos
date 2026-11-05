@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SemaforoSolucion/1.0.0": {
+        "runtime": {
+          "SemaforoSolucion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SemaforoSolucion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

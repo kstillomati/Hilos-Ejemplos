@@ -1,0 +1,8 @@
+D:\Facultad\Prácticas 2026\DesafioCocina\DesafioCocina\DesafioCocina\bin\Debug\DesafioCocina.exe.config
+D:\Facultad\Prácticas 2026\DesafioCocina\DesafioCocina\DesafioCocina\bin\Debug\DesafioCocina.exe
+D:\Facultad\Prácticas 2026\DesafioCocina\DesafioCocina\DesafioCocina\bin\Debug\DesafioCocina.pdb
+D:\Facultad\Prácticas 2026\DesafioCocina\DesafioCocina\DesafioCocina\obj\Debug\DesafioCocina.csproj.AssemblyReference.cache
+D:\Facultad\Prácticas 2026\DesafioCocina\DesafioCocina\DesafioCocina\obj\Debug\DesafioCocina.csproj.CoreCompileInputs.cache
+D:\Facultad\Prácticas 2026\DesafioCocina\DesafioCocina\DesafioCocina\obj\Debug\DesafioCocina.exe
+D:\Facultad\Prácticas 2026\DesafioCocina\DesafioCocina\DesafioCocina\obj\Debug\DesafioCocina.pdb
+D:\Facultad\Prácticas 2026\DesafioCocina\DesafioCocina\DesafioCocina\obj\Debug\DesafioCocina.exe.config

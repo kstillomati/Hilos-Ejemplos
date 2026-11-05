@@ -1,0 +1,16 @@
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\obj\Debug\net10.0\SemaforoSolucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\obj\Debug\net10.0\SemaforoSolucion.AssemblyInfoInputs.cache
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\obj\Debug\net10.0\SemaforoSolucion.AssemblyInfo.cs
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\obj\Debug\net10.0\SemaforoSolucion.csproj.CoreCompileInputs.cache
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\bin\Debug\net10.0\SemaforoSolucion.exe
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\bin\Debug\net10.0\SemaforoSolucion.deps.json
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\bin\Debug\net10.0\SemaforoSolucion.runtimeconfig.json
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\bin\Debug\net10.0\SemaforoSolucion.runtimeconfig.dev.json
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\bin\Debug\net10.0\SemaforoSolucion.dll
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\bin\Debug\net10.0\SemaforoSolucion.pdb
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\obj\Debug\net10.0\SemaforoSolucion.dll
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\obj\Debug\net10.0\refint\SemaforoSolucion.dll
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\obj\Debug\net10.0\SemaforoSolucion.pdb
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\obj\Debug\net10.0\SemaforoSolucion.genruntimeconfig.cache
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\obj\Debug\net10.0\ref\SemaforoSolucion.dll
+C:\Users\matyc\source\repos\SemaforoSolucion\SemaforoSolucion\obj\Debug\net10.0\Semaforo.BEEF4869.Up2Date
